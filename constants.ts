@@ -14,7 +14,7 @@ export const MOCK_MOVIES: Movie[] = [
     year: 2018, // Example year for this specific episode/season info
     genres: ["Drama", "Horror", "Thriller"],
     trailerUrl: "https://www.youtube.com/embed/R1v0uFms68U", // Generic TWD trailer
-    googleDriveLink: "https://media.verif323cloud.cfd/file.zip?c=AOTFTmiKcwUA_YUCAElOFwASAAAAAAAf&s=357258", // Example link
+    googleDriveLink: "https://drive.google.com/file/d/1ap8kuL2VuM5rgLSL6SqbWlmf2OklQ8id/view?usp=drive_link", // Example link
     videoSrc: "https://www.w3schools.com/html/mov_bbb.mp4", // Placeholder video
     isFeatured: true,
     ageRating: "16+",
