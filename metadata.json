@@ -1,0 +1,6 @@
+{
+  "name": "Movie Time",
+  "description": "A Netflix-inspired movie browsing application where users can watch trailers or simulated movie playback and access Google Drive links for downloads.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
